@@ -1,0 +1,6 @@
+abi   12 gupta
+dhanu 55 goyal
+kush  36 patel
+nammi 11 tyagi
+raki  22 verma
+yash  99 sharma
